@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="veggie_entries">
+        <item>Arugula</item>
+        <item>Beets</item>
+        <item>Carrots</item>
+        <item>Eggplant</item>
+        <item>Kale</item>
+        <item>Leeks</item>
+        <item>Okra</item>
+        <item>Potato</item>
+        <item>Spinach</item>
+        <item>Tomato</item>
+        <item>Zucchini</item>
+    </string-array>
+    <string-array name="veggie_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="fruit">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Dates</item>
+        <item>Grape</item>
+        <item>Lemon</item>
+        <item>Pineapple</item>
+        <item>Strawberry</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.example.alertdialoglistitem.CheckableListPreference
+        android:title="Vegetable"
+        android:summary="ListPreference"
+        android:key="veggie"
+        android:entries="@array/veggie_entries"
+        android:entryValues="@array/veggie_values"
+        android:defaultValue="2" />
+</PreferenceScreen>
